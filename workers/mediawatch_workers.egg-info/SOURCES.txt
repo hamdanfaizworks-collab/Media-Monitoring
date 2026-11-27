@@ -1,0 +1,6 @@
+pyproject.toml
+mediawatch_workers.egg-info/PKG-INFO
+mediawatch_workers.egg-info/SOURCES.txt
+mediawatch_workers.egg-info/dependency_links.txt
+mediawatch_workers.egg-info/requires.txt
+mediawatch_workers.egg-info/top_level.txt
